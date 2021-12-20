@@ -1,0 +1,7 @@
+- Scan các ứng dụng, dịch vụ sử dụng Log4j trong máy chủ (vd: phiên bản Log4j, log file request...) 
+- Scan intenal các end point (file bin chạy trên server)                                             
+- Scan extenal các end point (file bin chạy trên máy remote, nhập thông tin end point)              
+
+(fuzz Log4shell payloads trong url, header, param,...)
+
+Bản beta build thành file bin, các bản sau build thành API
